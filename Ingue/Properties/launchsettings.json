@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Ingue (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Ingue (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
